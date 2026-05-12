@@ -2,6 +2,10 @@
 
 **SmartCityEdgeSim** is a Python-based simulation framework for AI-driven task offloading in smart city edge computing environments. It models mobile IoT devices, MEC servers, Metro Edge infrastructure, and Cloud resources to evaluate intelligent scheduling decisions under dynamic mobility, congestion, and resource constraints.
 
+<img width="2652" height="2224" alt="SmartCityEdgeSimPy" src="https://github.com/user-attachments/assets/0bbb5a55-d70c-4e1e-a83d-52f59d682ea5" />
+
+
+
 ## About
 
 SmartCityEdgeSim provides an integrated simulation environment for studying mobility-aware and resource-aware task offloading across multi-tier smart city infrastructure. The framework supports local MEC execution, collaborative MEC offloading, Metro Edge execution, and Cloud fallback. It includes mobility modeling, workload generation, resource utilization tracking, task-level metric logging, live visualization, and a PPO-inspired reinforcement learning scheduler.
@@ -37,6 +41,10 @@ SmartCityEdgeSim/
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
+
+
+<img width="1471" height="747" alt="6_end_statistics" src="https://github.com/user-attachments/assets/36756f3e-cd50-40fa-b09f-be154a033f92" />
+
 
 ## Execution Tiers
 
